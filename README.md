@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/rishabh-kumar-37240222a" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/rishabhiitr" target="_blank">
+<a href="https://twitter.com/the_rishq" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
